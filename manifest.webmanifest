@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "ATLAS Training Pro — Meu treino e alunos",
+  "short_name": "ATLAS Pro",
+  "description": "Treinos, clientes, PDF e evolução, com backup online opcional.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d10",
+  "theme_color": "#080d10",
+  "orientation": "any",
+  "lang": "pt-BR",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}

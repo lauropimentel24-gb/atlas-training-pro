@@ -1,0 +1,13 @@
+ATLAS TRAINING PRO — MOBILE 2026
+
+1. Descompacte ATLAS_Training_Mobile_PWA.zip.
+2. Abra GUIA_IPHONE_E_NUVEM.html para o tutorial completo.
+3. Hospede os arquivos (index.html na raiz) gratuitamente no GitHub Pages.
+4. No iPhone 14, abra o endereço HTTPS no Safari e use Compartilhar > Adicionar à Tela de Início.
+5. Entre usando somente seu nome. Todo treino registrado é salvo localmente.
+6. Para backup seguro fora do celular, configure a nuvem opcional no Supabase com o arquivo SUPABASE_BACKUP_SEGURO.sql.
+7. Ou exporte manualmente para Arquivos / iCloud Drive.
+
+O aplicativo é PWA, não um app publicado na App Store. O acesso local pelo nome não é autenticação segura.
+O Supabase Free tem limites; a sincronização funciona somente depois da configuração e da conexão via e-mail.
+IMPORTANTE: NÃO faça upload de backups JSON, dados de alunos ou chaves secretas no repositório público do GitHub.
