@@ -4,6 +4,18 @@ Aplicativo web (PWA) para registrar treinos, acompanhar a evolução física e g
 
 **[Abrir o app](https://lauropimentel24-gb.github.io/atlas-training-pro/)**
 
+<p align="center">
+  <img src="docs/demo.gif" alt="ATLAS Training Pro em uso: principais telas" width="280">
+</p>
+
+## Telas
+
+| Início | Calendário | Evolução | Mapa muscular | Alunos |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="docs/inicio.png" width="160" alt="Painel inicial"> | <img src="docs/calendario.png" width="160" alt="Calendário de treino"> | <img src="docs/progresso.png" width="160" alt="Evolução"> | <img src="docs/progresso2.png" width="160" alt="Mapa muscular e progressão"> | <img src="docs/alunos.png" width="160" alt="Alunos e fichas"> |
+
+*Imagens com dados de exemplo.*
+
 ## Funcionalidades
 
 - **Treinos:** monte cada dia da semana, use modelos prontos e registre a sessão exercício por exercício.
