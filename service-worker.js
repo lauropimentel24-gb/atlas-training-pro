@@ -1,4 +1,4 @@
-const CACHE='atlas-training-mobile-v5-1';
+const CACHE='atlas-training-mobile-v5-2';
 const CORE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(x=>x.startsWith('atlas-training-')&&x!==CACHE).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
